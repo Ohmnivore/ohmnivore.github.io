@@ -3,8 +3,8 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
+  Developer: Ohmnivore
+  Site: http://ohmnivore.elementfx.com/
   Twitter:
   Location:
 
