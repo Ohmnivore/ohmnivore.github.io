@@ -3,11 +3,11 @@
 /* Padding below the footer and lighter body text */
 @font-face {
   font-family: retroBit;
-  src: url(/fonts/bit.ttf);
+  src: url(/fonts/bit.ttf), url(/fonts/8BITWONDERNominal.eot);
 }
 @font-face {
   font-family: retroBit16;
-  src: url(/fonts/bit16.ttf);
+  src: url(/fonts/bit16.ttf), url(/fonts/8_bit_1_6.eot);
 }
 h1 {
   color: #FF8400;
@@ -52,8 +52,7 @@ body {
   background-color: #abeb09;
   border-color: #d0e0eb;
   color: #49708a;
-  line-height: 80px;
-  height: 80px;
+  height: 56px;
 }
 /* title */
 .navbar-default .navbar-brand {
